@@ -20,15 +20,16 @@ Interaktywna aplikacja 3D przedstawiająca wizualizację klucza kryptograficzneg
 
 ## Sterowanie
 
-| Klawisz | Akcja 
-| **W/A/S/D** | Ruch kamery (przód/lewo/tył/prawo) 
-| **Spacja** | Ruch kamery w górę 
-| **Left Shift** | Ruch kamery w dół 
-| **Mysz** | Obrót kamery 
-| **O** | Włącz/wyłącz automatyczną rotację klucza 
-| **R** | Uruchom sekwencję pęknięcia i eksplozji 
-| **N** | Reset sceny (nowy klucz) 
-| **ESC** | Wyjście z programu 
+| Klawisz | Akcja |
+|---------|-------|
+| **W/A/S/D** | Ruch kamery (przód/lewo/tył/prawo) |
+| **Spacja** | Ruch kamery w górę |
+| **Left Shift** | Ruch kamery w dół |
+| **Mysz** | Obrót kamery |
+| **O** | Włącz/wyłącz automatyczną rotację klucza |
+| **R** | Uruchom sekwencję pęknięcia i eksplozji |
+| **N** | Reset sceny (nowy klucz) |
+| **ESC** | Wyjście z programu |
 
 ---
 
